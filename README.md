@@ -1,2 +1,3 @@
 První zadání
-Domácí ůkol
+Domácí úkol
+Žádný konflikt
