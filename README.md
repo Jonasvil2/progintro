@@ -1,3 +1,3 @@
 První zadání
-Domácí ůkol
-Další řádek
+Domácí úkol
+Conflict test
